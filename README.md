@@ -1,3 +1,10 @@
+<div align='center'>
+  
+  [![isanghaessi's GitHub stats](https://github-readme-stats.vercel.app/api?username=isanghaessi&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fisanghaessi&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=&edge_flat=false"/></a>
+</div>
+
 <h3 align='center'>🛠 Teck Stack 🛠</h3>
 <p align='center'>Techs that I've used at least once</p>
 <p align="center">
@@ -12,9 +19,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
 </p>
 
-<div align='center'>
-  
-  [![isanghaessi's GitHub stats](https://github-readme-stats.vercel.app/api?username=isanghaessi&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fisanghaessi&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=&edge_flat=false"/></a>
-</div>
+<p align='center'> Me ✋ </p>
+<p align='center'>
+<a href="https://velog.io/@isanghaessi" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+</p>
