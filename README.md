@@ -1,4 +1,5 @@
 <h3 align='center'>🛠 Teck Stack 🛠</h3>
+<p align='center'>Techs that I've used at least once</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/html-e34c26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp
