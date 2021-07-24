@@ -1,6 +1,5 @@
 <h3 align='center'>🛠 Teck Stack 🛠</h3>
 <p align='center'>Techs that I've used at least once</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Node.js-ffb13b?style=flat-square&logo=node.js&logoColor=white"/></a>&nbsp
@@ -14,5 +13,6 @@
 </p>
 
 <div align='center'>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isanghaessi&count_private=true&sho_icons=true)](https://github.com/anuraghazra/github-readme-stats)
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fisanghaessi&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=&edge_flat=false"/></a>
 </div>
