@@ -1,8 +1,10 @@
 <div align='center'>
   
   [![isanghaessi's GitHub stats](https://github-readme-stats.vercel.app/api?username=isanghaessi&include_all_commits=true&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isanghaessi&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![isanghaessi's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=isanghaessi&theme=dark)](https://github.com/isanghaessi/leetcode-stats)
+  [![isanghaessi's BoJ satus](http://mazassumnida.wtf/api/v2/generate_badge?boj=jesse1231)](https://solved.ac/jesse1231)
   
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fisanghaessi&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=&edge_flat=false"/></a>
 </div>
