@@ -5,7 +5,7 @@
   
   <h3 align='center'>🧩 LeeCode & BOJ</h3>  
   
-  [![isanghaessi's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=isanghaessi&theme=dark)](https://github.com/isanghaessi/leetcode-stats)
+  [![isanghaessi's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=isanghaessi&theme=dark)](https://github.com/isanghaessi/leetcode)
   [![isanghaessi's BOJ satus](http://mazassumnida.wtf/api/v2/generate_badge?boj=jesse1231)](https://solved.ac/jesse1231)
 
   <h3 align='center'>🛠 Tech</h3>
