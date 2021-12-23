@@ -30,7 +30,7 @@
   
   </div>
 
-<div align='center'> Me ✋ </p>
+<div align='center'> ✋ Me </p>
 <diiv align='center'>
   <a href="https://velog.io/@isanghaessi" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
   
