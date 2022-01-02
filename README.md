@@ -3,7 +3,7 @@
   [![isanghaessi's GitHub stats](https://github-readme-stats.vercel.app/api?username=isanghaessi&include_all_commits=true&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isanghaessi&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
-  <h3 align='center'>🧩 LeeCode & BOJ</h3>  
+  <h3 align='center'>🧩 LeetCode & BOJ</h3>  
   
   [![isanghaessi's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=isanghaessi&theme=dark)](https://github.com/isanghaessi/leetcode)
   [![isanghaessi's BOJ satus](http://mazassumnida.wtf/api/v2/generate_badge?boj=jesse1231)](https://solved.ac/jesse1231)
