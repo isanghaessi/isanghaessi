@@ -36,6 +36,7 @@
   |------|---|---|
   |2021.07 - 2021.08|NAVER CONNECT boostcamp web/mobile challenge||
   |2021.08 - 2021.12|NAVER CONNECT boostcamp web/mobile membership|[Donggle](https://github.com/boostcampwm-2021/Web11-Donggle)|
+  |2022.02 - |N Tech Service||
   
 <diiv align='center'>
   <a href="https://velog.io/@isanghaessi" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
