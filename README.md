@@ -3,11 +3,15 @@
   [![isanghaessi's GitHub stats](https://github-readme-stats.vercel.app/api?username=isanghaessi&include_all_commits=true&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isanghaessi&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
+  <br>
+  
   <h3 align='center'>🧩 Algorithm</h3>  
   
   [![isanghaessi's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=isanghaessi&theme=dark)](https://github.com/isanghaessi/leetcode)
   [![isanghaessi's BOJ satus](http://mazassumnida.wtf/api/v2/generate_badge?boj=jesse1231)](https://solved.ac/jesse1231)
 
+  <br>
+  
   <h3 align='center'>🛠 Tech</h3>
   <p align='center'>Techs that I'm using</p>
   
@@ -36,6 +40,8 @@
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   
   </div>
+  
+<br>
 
 <div align='center'> ✋ Me </p>
   
