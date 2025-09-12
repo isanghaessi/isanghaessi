@@ -18,7 +18,7 @@
 I'm a Web Backend Developer.   
 I want to be a reliable backend developer.   
 I have interesting in contributing open sources.   
-I have interesting in singing🎤.
+I have interesting in singing. 🎤
 
 # 🚴‍♂️ Activities
 
