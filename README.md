@@ -1,13 +1,17 @@
 # 🐙 Open Source Contribution
 
 - [spring-batch](https://github.com/spring-projects/spring-batch)
-  - ✅ Fix RecordFieldSetMapper for empty record [4947](https://github.com/spring-projects/spring-batch/pull/4947)
-  - ⏳ Fix wrong behavior of JobRepository with empty identifying job parameters [4946](https://github.com/spring-projects/spring-batch/pull/4946)
-  - ⏳ Fix intermittently breaking test case - SimpleStepFactoryBeanTests.testSimpleConcurrentJob [4950](https://github.com/spring-projects/spring-batch/pull/4950)
+  - [PR] ✅ Fix RecordFieldSetMapper for empty record [4947](https://github.com/spring-projects/spring-batch/pull/4947)
+  - [PR] ⏳ Fix wrong behavior of JobRepository with empty identifying job parameters [4946](https://github.com/spring-projects/spring-batch/pull/4946)
+  - [PR] ⏳ Fix intermittently breaking test case - SimpleStepFactoryBeanTests.testSimpleConcurrentJob [4950](https://github.com/spring-projects/spring-batch/pull/4950)
+- [spring-framework](https://github.com/spring-projects/spring-framework)
+  - [Debugging Issue] ✅ Potential regression in charset encoding for Content-Type header [35087](https://github.com/spring-projects/spring-framework/issues/35087)
 - [micrometer-metrics](https://github.com/micrometer-metrics/micrometer)
-  - ⏳ Add AOP feature that is parmater-based tagging to observation [6667](https://github.com/micrometer-metrics/micrometer/pull/6667)
+  - [PR] ⏳ Add AOP feature that is parmater-based tagging to observation [6667](https://github.com/micrometer-metrics/micrometer/pull/6667)
+- [jetty.project](https://github.com/jetty/jetty.project)
+  - [Reporing Issue] ✅ charset=null is automatically added when using Content-Type: application/problem+json in Servlet ee10  [13268](https://github.com/jetty/jetty.project/issues/13268)
 - [h2database](https://github.com/h2database/h2database)
-  - ⏳ Fix remaining query cache after ddl [4261](https://github.com/h2database/h2database/pull/4261)
+  - [PR] ✅ Fix remaining query cache after ddl [4261](https://github.com/h2database/h2database/pull/4261)
 
 # ✋ Me
 
