@@ -9,7 +9,7 @@
 - [micrometer-metrics](https://github.com/micrometer-metrics/micrometer)
   - [PR] ⏳ Add AOP feature that is parmater-based tagging to observation [6667](https://github.com/micrometer-metrics/micrometer/pull/6667)
 - [jetty.project](https://github.com/jetty/jetty.project)
-  - [Reporing Issue] ✅ charset=null is automatically added when using Content-Type: application/problem+json in Servlet ee10  [13268](https://github.com/jetty/jetty.project/issues/13268)
+  - [Reporting Issue] ✅ charset=null is automatically added when using Content-Type: application/problem+json in Servlet ee10  [13268](https://github.com/jetty/jetty.project/issues/13268)
 - [h2database](https://github.com/h2database/h2database)
   - [PR] ✅ Fix remaining query cache after ddl [4261](https://github.com/h2database/h2database/pull/4261)
 
