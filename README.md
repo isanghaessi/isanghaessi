@@ -12,6 +12,8 @@
   - ✅ [Reporting Issue] charset=null is automatically added when using Content-Type: application/problem+json in Servlet ee10  [13268](https://github.com/jetty/jetty.project/issues/13268)
 - [h2database](https://github.com/h2database/h2database)
   - ✅ [PR] Fix remaining query cache after ddl [4261](https://github.com/h2database/h2database/pull/4261)
+- [tabby](https://github.com/Eugeny/tabby)
+  - ✅ [PR] Too small draggable area when tabs with vertical-left and thin [10750](https://github.com/Eugeny/tabby/pull/10750)
 
 # ✋ Me
 
