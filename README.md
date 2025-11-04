@@ -1,12 +1,12 @@
 # 🐙 Open Source Contribution
 
+- [micrometer-metrics](https://github.com/micrometer-metrics/micrometer)
+  - ✅ [PR] Add KeyValues to Observations using annotations [6667](https://github.com/micrometer-metrics/micrometer/pull/6667)
 - [spring-batch](https://github.com/spring-projects/spring-batch)
   - ✅ [PR] Fix RecordFieldSetMapper for empty record [4947](https://github.com/spring-projects/spring-batch/pull/4947)
   - ✅ [PR] Fix wrong behavior of JobRepository with empty identifying job parameters [4946](https://github.com/spring-projects/spring-batch/pull/4946)
 - [spring-framework](https://github.com/spring-projects/spring-framework)
   - ✅ [Debugging Issue] Potential regression in charset encoding for Content-Type header [35087](https://github.com/spring-projects/spring-framework/issues/35087)
-- [micrometer-metrics](https://github.com/micrometer-metrics/micrometer)
-  - ✅ [PR] Add KeyValues to Observations using annotations [6667](https://github.com/micrometer-metrics/micrometer/pull/6667)
 - [jetty.project](https://github.com/jetty/jetty.project)
   - ✅ [Reporting Issue] charset=null is automatically added when using Content-Type: application/problem+json in Servlet ee10  [13268](https://github.com/jetty/jetty.project/issues/13268)
 - [h2database](https://github.com/h2database/h2database)
